@@ -1,0 +1,6 @@
+body{background-size: cover;
+
+      padding: 0;
+      margin: 0;
+    }
+#section1{background-image: url("../img/Python.jpg"); background-size: cover;height:100vh;background-attachment:fixed;margin:0;padding:0}
